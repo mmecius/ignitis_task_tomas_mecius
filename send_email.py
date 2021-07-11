@@ -5,7 +5,7 @@ from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-subject = "Scrapped Groups from Youtube"
+subject = "Jūsų mėgstamiausių dainų top 5"
 body = "This is an email with attachment sent from Python"
 sender_email = ENTER_SENDER_EMAIL
 receiver_email = ENTER_RECEIVER_EMAIL
